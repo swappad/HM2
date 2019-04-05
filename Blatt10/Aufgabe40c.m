@@ -1,7 +1,6 @@
 (* ::Package:: *)
 
-(* ::Input:: *)
-(*PrivateNotebookOptions->{FileOutlineCache->False}*)
+\[AliasDelimiter]
 
 
 (* ::Section:: *)
@@ -39,7 +38,6 @@
 
 (* ::Input:: *)
 (**)
-(**)
 
 
 (* ::Text:: *)
@@ -64,7 +62,6 @@
 
 (* ::Input:: *)
 (**)
-(**)
 
 
 (* ::Text:: *)
@@ -88,7 +85,6 @@
 
 
 (* ::Input:: *)
-(**)
 (**)
 
 
